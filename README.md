@@ -4,4 +4,4 @@
 [![discord](https://img.shields.io/badge/-@markomods-313131?style=flat-square&labelColor=313131&logo=Discord&logoColor=white&color=313131)](https://discord.gg/CKJcRfH)<br>
 [![patreon](https://img.shields.io/badge/-@markomods-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/markomods)
 
-Passionate about **GTA V & FiveM Development**. **Scroll down!**
+**Software // GTA V & FiveM Development**
