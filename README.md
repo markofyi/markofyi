@@ -1,15 +1,7 @@
-### Hi there! [website] 👋
+<img align="left" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/124065218/original/359c4aa2f3b0567ac067ae78788308732ce5dbdb/set-up-a-fivem-server-for-you.png">
 
-[![Website]](https://markomods.com)
+[![twitter](https://img.shields.io/badge/-@markowastaken-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/orhunp_)  
+[![website](https://img.shields.io/badge/-@markomods.com-313131?style=flat-square)](https://www.markomods.com/)  
+[![patreon](https://img.shields.io/badge/-@markomods-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/markomods)
 
-### Connect with me:
-
-[<img align="left" alt="markomods.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="msft | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-<br />
-<br />
-
-[website]: https://markomods.com
-[twitter]: https://twitter.com/markowastaken
-[instagram]: https://instagram.com/markowastaken
+Passionate about **GTA V & FiveM Development**. **Scroll down!**
